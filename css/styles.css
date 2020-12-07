@@ -1,0 +1,171 @@
+
+body{
+  margin: 0;
+  color: #393e46;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  color: #03506f;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+}
+
+h2{
+  color: #11999E;
+  font-family: 'Sedgwick Ave', cursive;
+  font-size: 2.2rem;
+  font-weight: normal;
+}
+
+h3{
+  color: #66BFBF;
+  font-family: 'Just Another Hand', cursive;
+  font-size: 1.8rem;
+}
+
+
+hr{
+  border-style: dotted none none none;
+  border-width: 8px;
+  width: 10%;
+  padding: 20px 0 20px 0;
+  color: slategrey;
+}
+
+p{
+  line-height: 2;
+}
+
+a{
+  color: #66BFBF;
+  font-family: 'Roboto', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.top-container{
+  background-color: #d0e8f2;
+  position: relative;
+  padding-top: 50px;
+}
+
+.middle-container{
+  background-color: #79a3b1;
+  padding-bottom: 10px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 30px auto;
+  text-align: left;
+}
+
+.bottom-container{
+  background-color: #456268;
+  border: 0;
+  margin: 0;
+  padding: 30px 0 30px 0;
+}
+
+.sub-heading{
+  color: #03506f
+}
+
+.mountain{
+  height: 500px;
+  width: 700px
+}
+
+.top-cloud{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  bottom: 200px;
+  right: 200px;
+}
+
+.bottom-cloud{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 200px;
+
+}
+
+.profile-img{
+  height: 200px;
+  padding-top: 10px;
+  width: 200px;
+}
+
+.aboutme{
+  width: 60%;
+  margin: auto;
+}
+
+.code-skill-description{
+  clear:left;
+}
+
+.mechanic-skill-description{
+  clear: right;
+}
+
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.code-img{
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.motorcycle-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.BUTTON_HVQ {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   height: 27px;
+   line-height: 27px;
+   color: #FFFFFF;
+   font-family: 'Roboto', sans-serif;
+   width: 185px;
+   font-size: 22px;
+   font-weight: 500;
+   padding: 3px;
+   background-color: #66BFBF;
+   -webkit-box-shadow: 0 0 0 0 #0059A0;
+   -moz-box-shadow: 0 0 0 0 #0059A0;
+   box-shadow: 0 0 0 0 #0059A0;
+   text-shadow: 1px 1px 0 #0059A0;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_HVQ:hover {
+   background: #456268;
+   border: solid #FFFFFF 0;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+
+.copyright{
+  color: white;
+  font-size: 0.75rem;
+}
